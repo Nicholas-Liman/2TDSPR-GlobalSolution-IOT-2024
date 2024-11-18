@@ -1,5 +1,8 @@
 # Projeto de Previsão e Análise de Consumo Energético com Tomadas Inteligentes B.I.N.
 
+## Link para o vídeo no YouTube:
+https://youtu.be/7Ru1AD7ZKDQ
+
 ## Descrição do Problema
 O consumo energético residencial é um dos principais fatores que impactam tanto as contas de luz quanto o meio ambiente. Este projeto tem como objetivo conscientizar as pessoas sobre o uso de energia, utilizando um protótipo de tomada inteligente capaz de medir o consumo em tempo real e oferecer insights práticos.
 
